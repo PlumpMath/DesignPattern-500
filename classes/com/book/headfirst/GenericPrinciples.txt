@@ -1,1 +1,0 @@
-All Design Patterns provide some way to alter the parts of the application independently of all other parts.
